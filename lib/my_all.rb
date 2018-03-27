@@ -1,6 +1,7 @@
 require 'pry'
 
 #.all? checks if there is a false or nil element in the array.
+#.all? is each or collect, but with checking the array if there is false or nil.=
 
 def my_all?(collection)
   i = 0

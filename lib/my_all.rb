@@ -17,3 +17,6 @@ def my_all?(collection)
     true
   end
 end
+
+#In short, yield is making a conditional that checks if i, or the index
+#is less than or equal to 2.

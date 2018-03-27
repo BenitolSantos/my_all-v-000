@@ -19,4 +19,6 @@ def my_all?(collection)
 end
 
 #In short, yield is making a conditional that iterates through the indexes and checks if i, or the index
-#is less than 2. and if it returns false, you 
+#is less than 2. and if it returns false, you return false.
+
+#yield in this case isn't useless, as you need yield in order to iterate through i with pipes(||).
